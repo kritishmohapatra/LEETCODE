@@ -40,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0009-palindrome-number) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/kritishmohapatra/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/kritishmohapatra/LEETCODE/tree/master/0907-koko-eating-bananas) |
+## Greedy
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/kritishmohapatra/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
