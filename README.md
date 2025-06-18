@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/kritishmohapatra/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kritishmohapatra/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/kritishmohapatra/LEETCODE/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/kritishmohapatra/LEETCODE/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
