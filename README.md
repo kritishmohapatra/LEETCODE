@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0009-palindrome-number) |
+| [0728-self-dividing-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kritishmohapatra/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
 |  |
