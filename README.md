@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritishmohapatra/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kritishmohapatra/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritishmohapatra/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -145,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
