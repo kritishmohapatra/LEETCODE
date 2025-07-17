@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1580-shuffle-the-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritishmohapatra/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1833-find-the-highest-altitude](https://github.com/kritishmohapatra/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/kritishmohapatra/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [1833-find-the-highest-altitude](https://github.com/kritishmohapatra/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
