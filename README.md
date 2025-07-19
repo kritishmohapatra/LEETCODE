@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/kritishmohapatra/LEETCODE/tree/master/0131-palindrome-partitioning) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritishmohapatra/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kritishmohapatra/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kritishmohapatra/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kritishmohapatra/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kritishmohapatra/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kritishmohapatra/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
