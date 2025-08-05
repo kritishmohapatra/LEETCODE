@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/kritishmohapatra/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kritishmohapatra/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/kritishmohapatra/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kritishmohapatra/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritishmohapatra/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3790-fruits-into-baskets-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/kritishmohapatra/LEETCODE/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -284,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kritishmohapatra/LEETCODE/tree/master/0053-maximum-subarray) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
