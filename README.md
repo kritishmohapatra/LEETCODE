@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/kritishmohapatra/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kritishmohapatra/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kritishmohapatra/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/kritishmohapatra/LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
