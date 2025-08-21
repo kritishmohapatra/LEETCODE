@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kritishmohapatra/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3934-coupon-code-validator](https://github.com/kritishmohapatra/LEETCODE/tree/master/3934-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/kritishmohapatra/LEETCODE/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3934-coupon-code-validator](https://github.com/kritishmohapatra/LEETCODE/tree/master/3934-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kritishmohapatra/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+| [3934-coupon-code-validator](https://github.com/kritishmohapatra/LEETCODE/tree/master/3934-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/kritishmohapatra/LEETCODE/tree/master/2689-rearranging-fruits) |
+| [3934-coupon-code-validator](https://github.com/kritishmohapatra/LEETCODE/tree/master/3934-coupon-code-validator) |
 ## Simulation
 |  |
 | ------- |
