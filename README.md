@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kritishmohapatra/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/kritishmohapatra/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [3324-split-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3324-split-the-array) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kritishmohapatra/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
@@ -329,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
+## Matrix
+|  |
+| ------- |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
