@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kritishmohapatra/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/kritishmohapatra/LEETCODE/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/kritishmohapatra/LEETCODE/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
