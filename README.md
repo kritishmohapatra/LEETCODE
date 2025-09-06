@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/kritishmohapatra/LEETCODE/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/kritishmohapatra/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kritishmohapatra/LEETCODE/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
