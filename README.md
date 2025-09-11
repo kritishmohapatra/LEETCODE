@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritishmohapatra/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2887-sort-vowels-in-a-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/kritishmohapatra/LEETCODE/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2689-rearranging-fruits](https://github.com/kritishmohapatra/LEETCODE/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3934-coupon-code-validator](https://github.com/kritishmohapatra/LEETCODE/tree/master/3934-coupon-code-validator) |
 ## Simulation
 |  |
