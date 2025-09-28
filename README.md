@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/kritishmohapatra/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/kritishmohapatra/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
+| [1018-largest-perimeter-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kritishmohapatra/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/kritishmohapatra/LEETCODE/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kritishmohapatra/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kritishmohapatra/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
+| [1018-largest-perimeter-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kritishmohapatra/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kritishmohapatra/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritishmohapatra/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
