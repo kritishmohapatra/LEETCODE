@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3790-fruits-into-baskets-ii) |
 | [3934-coupon-code-validator](https://github.com/kritishmohapatra/LEETCODE/tree/master/3934-coupon-code-validator) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4005-maximum-total-subarray-value-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/4005-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/kritishmohapatra/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/kritishmohapatra/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kritishmohapatra/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4005-maximum-total-subarray-value-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/4005-maximum-total-subarray-value-i) |
 ## Tree
 |  |
 | ------- |
