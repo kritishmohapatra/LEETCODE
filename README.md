@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kritishmohapatra/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kritishmohapatra/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kritishmohapatra/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kritishmohapatra/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kritishmohapatra/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kritishmohapatra/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kritishmohapatra/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kritishmohapatra/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kritishmohapatra/LEETCODE/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kritishmohapatra/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kritishmohapatra/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritishmohapatra/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
