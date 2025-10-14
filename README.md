@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3324-split-the-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kritishmohapatra/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3651-transformed-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3651-transformed-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kritishmohapatra/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
