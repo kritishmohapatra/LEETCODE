@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kritishmohapatra/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0224-basic-calculator) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kritishmohapatra/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/kritishmohapatra/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/kritishmohapatra/LEETCODE/tree/master/0830-largest-triangle-area) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kritishmohapatra/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
