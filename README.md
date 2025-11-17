@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kritishmohapatra/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/kritishmohapatra/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kritishmohapatra/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kritishmohapatra/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/kritishmohapatra/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/kritishmohapatra/LEETCODE/tree/master/1642-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
