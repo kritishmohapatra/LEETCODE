@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kritishmohapatra/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kritishmohapatra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/kritishmohapatra/LEETCODE/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kritishmohapatra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kritishmohapatra/LEETCODE/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0224-basic-calculator) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kritishmohapatra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0263-ugly-number) |
