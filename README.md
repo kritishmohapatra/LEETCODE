@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/kritishmohapatra/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/kritishmohapatra/LEETCODE/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/kritishmohapatra/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
