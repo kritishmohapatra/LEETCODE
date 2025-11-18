@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kritishmohapatra/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/kritishmohapatra/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1580-shuffle-the-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritishmohapatra/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/kritishmohapatra/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1552-build-an-array-with-stack-operations](https://github.com/kritishmohapatra/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
+| [1552-build-an-array-with-stack-operations](https://github.com/kritishmohapatra/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/kritishmohapatra/LEETCODE/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/kritishmohapatra/LEETCODE/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/2058-concatenation-of-array) |
