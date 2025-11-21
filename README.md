@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kritishmohapatra/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritishmohapatra/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kritishmohapatra/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kritishmohapatra/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kritishmohapatra/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1833-find-the-highest-altitude](https://github.com/kritishmohapatra/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2571-find-the-pivot-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/2571-find-the-pivot-integer) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kritishmohapatra/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kritishmohapatra/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kritishmohapatra/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
