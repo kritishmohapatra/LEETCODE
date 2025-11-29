@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kritishmohapatra/LEETCODE/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kritishmohapatra/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kritishmohapatra/LEETCODE/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritishmohapatra/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/kritishmohapatra/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/kritishmohapatra/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kritishmohapatra/LEETCODE/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-largest-perimeter-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kritishmohapatra/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kritishmohapatra/LEETCODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
