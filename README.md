@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritishmohapatra/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/kritishmohapatra/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/kritishmohapatra/LEETCODE/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1833-find-the-highest-altitude](https://github.com/kritishmohapatra/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/kritishmohapatra/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2571-find-the-pivot-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/2571-find-the-pivot-integer) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kritishmohapatra/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritishmohapatra/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
