@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kritishmohapatra/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0507-perfect-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/kritishmohapatra/LEETCODE/tree/master/0830-largest-triangle-area) |
