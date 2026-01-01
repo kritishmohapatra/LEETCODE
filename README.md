@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kritishmohapatra/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kritishmohapatra/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kritishmohapatra/LEETCODE/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/kritishmohapatra/LEETCODE/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0136-single-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kritishmohapatra/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kritishmohapatra/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/kritishmohapatra/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kritishmohapatra/LEETCODE/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0165-compare-version-numbers) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kritishmohapatra/LEETCODE/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
