@@ -3,4 +3,3 @@ class Solution:
         a=start^goal
         k=bin(a).replace("0b","")
         return k.count("1")
-        
