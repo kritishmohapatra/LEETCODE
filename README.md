@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kritishmohapatra/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/kritishmohapatra/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/kritishmohapatra/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
