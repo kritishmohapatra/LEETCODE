@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritishmohapatra/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/kritishmohapatra/LEETCODE/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1720-decode-xored-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1833-find-the-highest-altitude](https://github.com/kritishmohapatra/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2058-concatenation-of-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/2058-concatenation-of-array) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kritishmohapatra/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1720-decode-xored-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kritishmohapatra/LEETCODE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
