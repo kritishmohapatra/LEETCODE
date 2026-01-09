@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/kritishmohapatra/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kritishmohapatra/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kritishmohapatra/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0728-self-dividing-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0728-self-dividing-numbers) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/kritishmohapatra/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/kritishmohapatra/LEETCODE/tree/master/1552-build-an-array-with-stack-operations) |
