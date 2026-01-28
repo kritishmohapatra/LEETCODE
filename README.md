@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kritishmohapatra/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kritishmohapatra/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kritishmohapatra/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kritishmohapatra/LEETCODE/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0136-single-number) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/kritishmohapatra/LEETCODE/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/kritishmohapatra/LEETCODE/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kritishmohapatra/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
