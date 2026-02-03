@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kritishmohapatra/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3637-trionic-array-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3651-transformed-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3651-transformed-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kritishmohapatra/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
