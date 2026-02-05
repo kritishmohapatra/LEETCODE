@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/kritishmohapatra/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3324-split-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3324-split-the-array) |
+| [3379-transformed-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kritishmohapatra/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritishmohapatra/LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3379-transformed-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
