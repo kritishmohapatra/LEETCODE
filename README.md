@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kritishmohapatra/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/kritishmohapatra/LEETCODE/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/kritishmohapatra/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kritishmohapatra/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kritishmohapatra/LEETCODE/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kritishmohapatra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kritishmohapatra/LEETCODE/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/kritishmohapatra/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kritishmohapatra/LEETCODE/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/kritishmohapatra/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
