@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/kritishmohapatra/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kritishmohapatra/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/kritishmohapatra/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1859-sorting-the-sentence](https://github.com/kritishmohapatra/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
