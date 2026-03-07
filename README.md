@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/kritishmohapatra/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1859-sorting-the-sentence](https://github.com/kritishmohapatra/LEETCODE/tree/master/1859-sorting-the-sentence) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kritishmohapatra/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/kritishmohapatra/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kritishmohapatra/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kritishmohapatra/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kritishmohapatra/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Stack
 |  |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kritishmohapatra/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Design
