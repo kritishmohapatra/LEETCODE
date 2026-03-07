@@ -5,14 +5,14 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def rec(self, root, ans):
+    def pre(self, root, arr):
         if not root:
             return
-        ans.append(root.val)
-        self.rec(root.left, ans)
-        self.rec(root.right, ans)
-    def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        ans=[]
-        self.rec(root, ans)
-        return ans
+        arr.append(root.val)
+        self.pre(root.left, arr)
+        self.pre(root.right, arr)
         
+    def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        arr=[]
+        self.pre(root, arr)
+        return arr
