@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritishmohapatra/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/kritishmohapatra/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kritishmohapatra/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kritishmohapatra/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1720-decode-xored-array) |
 | [1833-find-the-highest-altitude](https://github.com/kritishmohapatra/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1980-find-unique-binary-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2058-concatenation-of-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/kritishmohapatra/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kritishmohapatra/LEETCODE/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/kritishmohapatra/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
