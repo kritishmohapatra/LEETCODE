@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kritishmohapatra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kritishmohapatra/LEETCODE/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kritishmohapatra/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/kritishmohapatra/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kritishmohapatra/LEETCODE/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kritishmohapatra/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0696-count-binary-substrings) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kritishmohapatra/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kritishmohapatra/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0645-set-mismatch) |
