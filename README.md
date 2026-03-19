@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kritishmohapatra/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kritishmohapatra/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kritishmohapatra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kritishmohapatra/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kritishmohapatra/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kritishmohapatra/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/kritishmohapatra/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0611-valid-triangle-number) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kritishmohapatra/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kritishmohapatra/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0611-valid-triangle-number) |
@@ -599,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kritishmohapatra/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kritishmohapatra/LEETCODE/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kritishmohapatra/LEETCODE/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/kritishmohapatra/LEETCODE/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kritishmohapatra/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
