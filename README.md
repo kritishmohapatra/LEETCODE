@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritishmohapatra/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kritishmohapatra/LEETCODE/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kritishmohapatra/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2833-furthest-point-from-origin](https://github.com/kritishmohapatra/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/kritishmohapatra/LEETCODE/tree/master/3396-valid-word) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritishmohapatra/LEETCODE/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2833-furthest-point-from-origin](https://github.com/kritishmohapatra/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kritishmohapatra/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3324-split-the-array) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kritishmohapatra/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
