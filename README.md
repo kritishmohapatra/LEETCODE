@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kritishmohapatra/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/kritishmohapatra/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kritishmohapatra/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kritishmohapatra/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kritishmohapatra/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kritishmohapatra/LEETCODE/tree/master/0075-sort-colors) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kritishmohapatra/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/kritishmohapatra/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kritishmohapatra/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kritishmohapatra/LEETCODE/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kritishmohapatra/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kritishmohapatra/LEETCODE/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kritishmohapatra/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kritishmohapatra/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kritishmohapatra/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
