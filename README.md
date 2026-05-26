@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kritishmohapatra/LEETCODE/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/kritishmohapatra/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/kritishmohapatra/LEETCODE/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kritishmohapatra/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3324-split-the-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/kritishmohapatra/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/2887-sort-vowels-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3396-valid-word](https://github.com/kritishmohapatra/LEETCODE/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kritishmohapatra/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
