@@ -4,10 +4,9 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def dfs(self, root):
-        if root==None:
+        if not root:
             return 0
         lh=self.dfs(root.left)
         if lh==-1:
@@ -15,9 +14,9 @@ class Solution:
         rh=self.dfs(root.right)
         if rh==-1:
             return -1
-        if (abs(lh-rh)>1):
+        if abs(lh-rh)>1:
             return -1
-        return max(lh, rh)+1
+        return 1+max(lh,rh)
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         return self.dfs(root)!=-1
         
