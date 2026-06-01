@@ -7,7 +7,7 @@
 class Solution:
     def ino(self, root, arr):
         if not root:
-            return
+            return 
         self.ino(root.left, arr)
         arr.append(root.val)
         self.ino(root.right, arr)
