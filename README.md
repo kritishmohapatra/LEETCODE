@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3651-transformed-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3651-transformed-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kritishmohapatra/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kritishmohapatra/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/kritishmohapatra/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kritishmohapatra/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4005-maximum-total-subarray-value-i](https://github.com/kritishmohapatra/LEETCODE/tree/master/4005-maximum-total-subarray-value-i) |
