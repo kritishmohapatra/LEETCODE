@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kritishmohapatra/LEETCODE/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/kritishmohapatra/LEETCODE/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/kritishmohapatra/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kritishmohapatra/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kritishmohapatra/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/kritishmohapatra/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/kritishmohapatra/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/kritishmohapatra/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [1189-maximum-number-of-balloons](https://github.com/kritishmohapatra/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kritishmohapatra/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kritishmohapatra/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kritishmohapatra/LEETCODE/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1189-maximum-number-of-balloons](https://github.com/kritishmohapatra/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritishmohapatra/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
