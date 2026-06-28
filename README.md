@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/kritishmohapatra/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kritishmohapatra/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-find-the-highest-altitude](https://github.com/kritishmohapatra/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritishmohapatra/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kritishmohapatra/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kritishmohapatra/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kritishmohapatra/LEETCODE/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritishmohapatra/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kritishmohapatra/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kritishmohapatra/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kritishmohapatra/LEETCODE/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/kritishmohapatra/LEETCODE/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritishmohapatra/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/kritishmohapatra/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
