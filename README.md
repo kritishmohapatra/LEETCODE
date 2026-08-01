@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kritishmohapatra/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritishmohapatra/LEETCODE/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kritishmohapatra/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1980-find-unique-binary-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kritishmohapatra/LEETCODE/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kritishmohapatra/LEETCODE/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/kritishmohapatra/LEETCODE/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/kritishmohapatra/LEETCODE/tree/master/1796-second-largest-digit-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/kritishmohapatra/LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kritishmohapatra/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kritishmohapatra/LEETCODE/tree/master/1930-unique-length-3-palindromic-subsequences) |
