@@ -5,13 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def ino(self, root, arr):
+    def pre(self, arr, root):
         if not root:
             return 
-        self.ino(root.left, arr)
+        self.pre(arr, root.left)
         arr.append(root.val)
-        self.ino(root.right, arr)
+        self.pre(arr, root.right)  
+            
+
+        
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         arr=[]
-        self.ino(root, arr)
+        self.pre(arr, root)
         return arr
